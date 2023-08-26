@@ -16,3 +16,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviocalves&theme=dark&bg_color=000&border_color=AFAFAF&icon_color=FFDF1B&text_color=fff&show_icons=true&hide_title=true)
 
 ## Minhas Contribuições
+
+Conhecendo os procedimentos do GitHub.
